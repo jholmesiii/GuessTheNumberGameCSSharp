@@ -1,0 +1,8 @@
+C:\Users\jholm\source\repos\Guess the Number\Guess the Number\bin\Debug\Guess the Number.exe.config
+C:\Users\jholm\source\repos\Guess the Number\Guess the Number\bin\Debug\Guess the Number.exe
+C:\Users\jholm\source\repos\Guess the Number\Guess the Number\bin\Debug\Guess the Number.pdb
+C:\Users\jholm\source\repos\Guess the Number\Guess the Number\obj\Debug\Guess the Number.csproj.AssemblyReference.cache
+C:\Users\jholm\source\repos\Guess the Number\Guess the Number\obj\Debug\Guess the Number.csproj.SuggestedBindingRedirects.cache
+C:\Users\jholm\source\repos\Guess the Number\Guess the Number\obj\Debug\Guess the Number.csproj.CoreCompileInputs.cache
+C:\Users\jholm\source\repos\Guess the Number\Guess the Number\obj\Debug\Guess the Number.exe
+C:\Users\jholm\source\repos\Guess the Number\Guess the Number\obj\Debug\Guess the Number.pdb
